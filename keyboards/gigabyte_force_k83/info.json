@@ -13,7 +13,8 @@
     },
     "indicators": {
         "num_lock": "LINE_PIN32",
-        "caps_lock": "LINE_PIN30"
+        "caps_lock": "LINE_PIN30",
+        "scroll_lock": "LINE_PIN28"
     },
     "matrix_pins": {
         // In order: y0 -> y7
